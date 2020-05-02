@@ -1,5 +1,5 @@
 Para poder comprobar la validez del formato de los archivos RFD, se puede hacer uso de la libreria pyschal para python3. 
-El repositorio contiene ejemplos de ficheros RDF que se pueden validar de la siguiente forma
+El repositorio contiene ejemplos de ficheros RDF que se pueden validar de la siguiente forma en sistemas UNIX
 
 1. Instalar la librería:
 
