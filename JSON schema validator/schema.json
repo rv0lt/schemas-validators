@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "rollnumber": {
+            "type": "number"
+        },
+        "marks": {
+            "type": "number"
+        }
+    }
+}
