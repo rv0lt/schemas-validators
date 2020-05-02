@@ -11,16 +11,16 @@ Pasos a seguir:
 
     Donde:
         
-+ -s es un path opcional con el shapes graph que vamos a usar 
+    + -s es un path opcional con el shapes graph que vamos a usar 
         
-+ -e es un path opcional donde se encuenta informacion extra ontologica que se une a la informacion del data graph
+    + -e es un path opcional donde se encuenta informacion extra ontologica que se une a la informacion del data graph
         
-+ -m activa la funcion del meta-shacl
+    + -m activa la funcion del meta-shacl
         
-+ -i indica la opcion de inferencia (rdfs,owlrl, none,both)
+    + -i indica la opcion de inferencia (rdfs,owlrl, none,both)
         
- + -f es el formato de salida del ValidationReport (human = legible para seres humanos, json-ld,n3,xml)
+    + -f es el formato de salida del ValidationReport (human = legible para seres humanos, json-ld,n3,xml)
         
- + -a activa las funciones avanzadas de SHACL
+    + -a activa las funciones avanzadas de SHACL
 
 3. Obtenemos el ValidationReport
