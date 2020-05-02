@@ -1,2 +1,2 @@
 
-Schemas validators with examples (one correct an one wrong) for XML and JSON
+Schemas validators with examples for XML, JSON and RDF
